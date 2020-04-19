@@ -1,0 +1,1 @@
+epoch0 : gan_loss = [82.81506, 82.809425, 5.641111] ; discriminator_loss = 0.353383
